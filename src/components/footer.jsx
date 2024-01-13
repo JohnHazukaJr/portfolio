@@ -1,6 +1,6 @@
 // src/components/Footer/Footer.jsx
 import React from 'react';
-import './Footer.css'; // Make sure this import points to the correct file path
+import './footer.css'; // Make sure this import points to the correct file path
 
 function Footer() {
     return (
