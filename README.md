@@ -2,11 +2,6 @@
 # Overview
 This is a simple React portfolio showcasing my skills, projects, and information. The portfolio is designed to provide an overview of my background, projects, and contact details.
 
-## Features
-# Home Section: Brief introduction and welcome message.
-# Projects Section: Display of key projects with descriptions and links.
-# Skills Section: Highlighting technical skills and expertise.
-# Contact Section: A form or contact details for easy communication.
 
 ## Getting Started
 Clone the Repository:
